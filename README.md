@@ -21,3 +21,9 @@ Here are some ideas to get you started:
 
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=djghostghost.visitor-badge)
+
+<details>
+  <summary>📈 Activity Graph</summary>
+  <br/>
+<a href="https://github.com/djghostghost"><img alt="djghostghost's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=djghostghost&bg_color=fff&color=000&line=00E676&point=000&hide_border=true" /></a>
+</details>
